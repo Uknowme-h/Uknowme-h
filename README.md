@@ -1,5 +1,6 @@
-<h2 align="left">Hello! My name is Nishant jaiswal and I'm a student pursuing Bachelor's degree in bsc. Computer science specalizing in data science and Ai.</h2>
 ###
+<h2 align="left">Hello! My name is Nishant jaiswal and I'm a student pursuing Bachelor's degree in bsc. Computer science specalizing in data science and Ai.</h2>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uknowme-h&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uknowme-h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
@@ -24,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
