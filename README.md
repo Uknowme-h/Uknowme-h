@@ -1,6 +1,7 @@
 ###
-<h2 align="left">Hello! My name is Nishant jaiswal and I'm a student pursuing Bachelor's degree in bsc. Computer science specalizing in data science and Ai.</h2>
-
+<h2 align="left">Nishant Jaiswal</h2>
+<h2 align="left">Data Science & AI Enthusiast</h2>
+<h2 align="left">BSc. Computer Science ( specialization in Data Science & AI)</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uknowme-h&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uknowme-h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="195" alt="languages graph"  />
@@ -11,7 +12,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"  />
 
 ###
-
+<h2 align="left">Languages:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -29,7 +30,7 @@
 </div>
 
 ###
-
+<h2 align="left">Contacts:</h2>
 <div align="left">
   <a href= "https://www.instagram.com/tf_ulookin._.at/" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   
