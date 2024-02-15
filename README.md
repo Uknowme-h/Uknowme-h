@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src = "https://profile-readme-generator.com/assets/snake.svg">
+<img src="https://raw.githubusercontent.com/Uknowme-h/Uknowme-h/output/snake.svg" alt="Snake animation" />
 
 ###
