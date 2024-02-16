@@ -1,5 +1,5 @@
 ###
-<h2 align="left">Nishant Jaiswal <br> Data Science & AI Enthusiast</h2>
+<h2 align="left">Nishant Jaiswal <br> Data Science & AI Enthusiast</h2>  <img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"/>
 <p align="left"> Currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Artificial Intelligence. I'm passionate about exploring the potential of data to solve real-world problems and develop innovative solutions.<br>
 I'm excited to connect with other data science and AI enthusiasts on GitHub!
 Feel free to reach out to me if you have any questions or want to collaborate.</p>
@@ -9,7 +9,6 @@ Feel free to reach out to me if you have any questions or want to collaborate.</
 <li>Natural language processing</li>
 <li>Data analysis</li>
 <li>Big Data</li>
-<br>
 <h2 align="left"> Im also interested in:</h2>
 <li>Open source Projects</li>
 <li>Contributing to the data science community</li>
@@ -18,6 +17,30 @@ Feel free to reach out to me if you have any questions or want to collaborate.</
 <p align="left"> I'm always looking for new challenges and opportunities to learn and grow.<br>
 
 I hope to see you around on GitHub! </p>
+<h2 align="left">Learnings:</h2>
+<table border = 1px style = "color : grey">
+<tr>
+  <th>Courses</th>
+  <th>Provider</th>
+  <th>Progress</th>
+</tr>
+  <tr>
+    <td>Data science</td>
+    <td><a href= "https://www.nccedu.com/qualifications/fundamentals/data-science/">NCC</a></td>
+    <td align="center">&#10003;</td>
+  </tr>
+  <tr>
+    <td>Foundation:Data,Data,Everywhere</td>
+    <td><a href ="https://www.coursera.org/account/accomplishments/verify/HG4T2XKV9VBJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"> Google</a>
+    </td>
+    <td align="center">&#10003;</td>
+    </tr>
+  <tr>
+    <td>Practical Deep Learning</td>
+    <td><a href = "https://course.fast.ai/">FastAi</a></td>
+    <td>Learning..</td>
+  </tr>
+</table>
 <hr>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uknowme-h&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  />
@@ -25,11 +48,6 @@ I hope to see you around on GitHub! </p>
 </div>
 <hr>
 
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"  />
-
-###
 <h2 align="left">Languages:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,10 +68,10 @@ I hope to see you around on GitHub! </p>
 ###
 <h2 align="left">Contacts:</h2>
 <div align="left">
-  <a href= "https://www.instagram.com/tf_ulookin._.at/" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
+  <a href= "https://www.instagram.com/tf_ulookin._.at/" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="35" alt="instagram logo" /></a>
+ <a href="https://www.kaggle.com/nishantjswl" ><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="35" alt="gmail logo" /> </a>
+ <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="35" alt="linkedin logo" /> </a>
+ <a href = "https://twitter.com/a_p_p_l_e0_0" ><img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" height="35"> </a>
 </div>
 
 ###
