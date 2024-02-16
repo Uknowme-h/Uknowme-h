@@ -1,11 +1,29 @@
 ###
-<h2 align="left">Nishant Jaiswal</h2>
-<h2 align="left">Data Science & AI Enthusiast</h2>
-<h2 align="left">BSc. Computer Science ( specialization in Data Science & AI)</h2>
+<h2 align="left">Nishant Jaiswal <br> Data Science & AI Enthusiast</h2>
+<p align="left"> Currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Artificial Intelligence. I'm passionate about exploring the potential of data to solve real-world problems and develop innovative solutions.<br>
+I'm excited to connect with other data science and AI enthusiasts on GitHub!
+Feel free to reach out to me if you have any questions or want to collaborate.</p>
+<h2 align="left"> Here are some of my interests</h2>
+<li>Machine learning</li>
+<li>Deep learning</li>
+<li>Natural language processing</li>
+<li>Data analysis</li>
+<li>Big Data</li>
+<br>
+<h2 align="left"> Im also interested in:</h2>
+<li>Open source Projects</li>
+<li>Contributing to the data science community</li>
+<li>Learning from others</li>
+<br>
+<p align="left"> I'm always looking for new challenges and opportunities to learn and grow.<br>
+
+I hope to see you around on GitHub! </p>
+<hr>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uknowme-h&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uknowme-h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="195" alt="languages graph"  />
 </div>
+<hr>
 
 ###
 
