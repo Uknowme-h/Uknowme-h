@@ -26,18 +26,18 @@ I hope to see you around on GitHub! </p>
 </tr>
   <tr>
     <td>Data science</td>
-    <td><a href= "https://www.nccedu.com/qualifications/fundamentals/data-science/">NCC</a></td>
+    <td><a href= "https://www.nccedu.com/qualifications/fundamentals/data-science/" target="_blank" >NCC</a></td>
     <td align="center">&#10003;</td>
   </tr>
   <tr>
     <td>Foundation:Data,Data,Everywhere</td>
-    <td><a href ="https://www.coursera.org/account/accomplishments/verify/HG4T2XKV9VBJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"> Google</a>
+    <td><a href ="https://www.coursera.org/account/accomplishments/verify/HG4T2XKV9VBJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" target="_blank" > Google</a>
     </td>
     <td align="center">&#10003;</td>
     </tr>
   <tr>
     <td>Practical Deep Learning</td>
-    <td><a href = "https://course.fast.ai/">FastAi</a></td>
+    <td><a href = "https://course.fast.ai/" target="_blank">FastAi</a></td>
     <td>Learning..</td>
   </tr>
 </table>
@@ -68,10 +68,10 @@ I hope to see you around on GitHub! </p>
 ###
 <h2 align="left">Contacts:</h2>
 <div align="left">
-  <a href= "https://www.instagram.com/tf_ulookin._.at/" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="35" alt="instagram logo" /></a>
- <a href="https://www.kaggle.com/nishantjswl" ><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="35" alt="gmail logo" /> </a>
- <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="35" alt="linkedin logo" /> </a>
- <a href = "https://twitter.com/a_p_p_l_e0_0" ><img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" height="35"> </a>
+  <a href= "https://www.instagram.com/tf_ulookin._.at/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="35" alt="instagram logo" /></a>
+ <a href="https://www.kaggle.com/nishantjswl" target="_blank" ><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="35" alt="gmail logo" /> </a>
+ <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="35" alt="linkedin logo" /> </a>
+ <a href = "https://twitter.com/a_p_p_l_e0_0" target="_blank" ><img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" height="35"> </a>
 </div>
 
 ###
