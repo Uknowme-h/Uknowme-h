@@ -13,7 +13,7 @@ Feel free to reach out to me if you have any questions or want to collaborate.</
 <h2 align="left"> Im also interested in:</h2>
 <li>Open source Projects</li>
 <li>Contributing to the data science community</li>
-<li>Learning from others</li>
+<li>Learning from others aswell</li>
 <br>
 <p align="left"> I'm always looking for new challenges and opportunities to learn and grow.<br>
 
