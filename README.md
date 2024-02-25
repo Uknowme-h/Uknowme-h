@@ -18,7 +18,7 @@ Feel free to reach out to me if you have any questions or want to collaborate.</
 <p align="left"> I'm always looking for new challenges and opportunities to learn and grow.<br>
 
 I hope to see you around on GitHub! </p>
-<h2 align="left">Learnings:</h2>
+<h2 align="left">Things im learning / have learned so far:</h2>
 <table border = 1px style = "color : grey">
 <tr>
   <th>Courses</th>
