@@ -42,6 +42,11 @@ I hope to see you around on GitHub! </p>
   <td align="center">&#10003;</td> 
 </tr>
   <tr>
+  <td>Intermediate machine learning</td>
+  <td><a href ="https://www.kaggle.com/learn/certification/nishantjswl/intro-to-machine-learning" >Kaggle</a></td>
+  <td align="center">learning..</td> 
+</tr>
+  <tr>
     <td>Practical Deep Learning</td>
     <td><a href = "https://course.fast.ai/" target="_blank">FastAi</a></td>
     <td>Learning..</td>
