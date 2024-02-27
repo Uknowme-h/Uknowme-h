@@ -59,7 +59,7 @@ I hope to see you around on GitHub! </p>
 </div>
 <hr>
 
-<h2 align="left">Languages:</h2>
+<h2 align="left">Languages and tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -74,6 +74,12 @@ I hope to see you around on GitHub! </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png" height="30" alt="jupyter notebook logo"  />
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/Uknowme-h/Uknowme-h/assets/152166858/195990e7-d708-4193-a38b-5828e10acf99" height="30" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
