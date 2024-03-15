@@ -82,6 +82,8 @@ I hope to see you around on GitHub! </p>
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
