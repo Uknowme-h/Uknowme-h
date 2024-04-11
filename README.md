@@ -61,6 +61,21 @@ I hope to see you around on GitHub! </p>
     <td><a href = "https://www.datacamp.com/completed/statement-of-accomplishment/course/88c0d9689d5fecfba43275b0b4756ccd3980042f" target="_blank">DataCamp</a></td>
     <td>&#10003;</td>
   </tr>
+  </tr>
+  <tr>
+    <td>Neural Networks and Deep Learning</td>
+    <td><a href = "https://www.coursera.org/specializations/deep-learning" target="_blank">DeepLearning.Ai</a></td>
+    <td>. . .</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>Linear Algebra for Machine Learning and Data Science
+</td>
+    <td><a href = "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">DeepLearning.Ai</a></td>
+    <td>. . .</td>
+  </tr>
+  
+
 </table>
 <hr>
 <div align="center">
