@@ -78,7 +78,7 @@ I hope to see you around on GitHub! </p>
   <tr>
     <td>Supervised Learning with scikit-learn</td>
     <td><a href="https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/">DataCamp</a></td>
-    <td>. . .</td>
+    <td>&#10003;</td>
   </tr>
   <tr>
     <td>Advanced Learning Algorithms</td>
