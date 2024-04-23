@@ -85,6 +85,12 @@ I hope to see you around on GitHub! </p>
     <td><a href="DeepLearning.ai">DeepLearning.ai</a></td>
     <td>. . .</td>
   </tr>
+
+  <tr>
+    <td>Writing Efficient Python Code</td>
+    <td><a href = "https://campus.datacamp.com/"> DataCamp</a></td>
+    <td> . . . </td>
+  </tr>
   
 
 </table>
