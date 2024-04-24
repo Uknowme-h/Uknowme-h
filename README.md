@@ -128,6 +128,22 @@ I hope to see you around on GitHub! </p>
   <img width="12" />
 </div>
 
+###
+<h2 align="left">Other Socials:</h2>
+<div align="left">
+  <a href= "https://www.instagram.com/tf_ulookin._.at/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="35" alt="instagram logo" /></a>
+ <a href="https://www.kaggle.com/nishantjswl" target="_blank" ><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="35" alt="gmail logo" /> </a>
+ <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="35" alt="linkedin logo" /> </a>
+ <a href = "https://twitter.com/a_p_p_l_e0_0" target="_blank" ><img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" height="35"> </a>
+ <a href = "https://huggingface.co/Uknowme-h" target="_blank" ><img src = "https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.svg" height="35"> </a>
+</div>
+
+# Summary:-
+
+<img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=Uknowme-h>
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
+
 # Statistics:-
 <div align="center">
 <a href="https://github.com/Uknowme-h">
@@ -142,15 +158,6 @@ I hope to see you around on GitHub! </p>
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Uknowme-h&theme=tokyo-night"/>
 
-###
-<h2 align="left">Other Socials:</h2>
-<div align="left">
-  <a href= "https://www.instagram.com/tf_ulookin._.at/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height="35" alt="instagram logo" /></a>
- <a href="https://www.kaggle.com/nishantjswl" target="_blank" ><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" height="35" alt="gmail logo" /> </a>
- <a href="https://www.linkedin.com/in/nishant-jaiswal-49a347278/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="35" alt="linkedin logo" /> </a>
- <a href = "https://twitter.com/a_p_p_l_e0_0" target="_blank" ><img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" height="35"> </a>
- <a href = "https://huggingface.co/Uknowme-h" target="_blank" ><img src = "https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.svg" height="35"> </a>
-</div>
 
 ###
 
