@@ -140,7 +140,8 @@ I hope to see you around on GitHub! </p>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
 ---
-<p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uknowme-h&theme=tokyonight&hide_border=false"></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Uknowme-h" alt="GitHub Streak" /></a>
+
 ---
 
 <br>
