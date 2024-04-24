@@ -94,12 +94,7 @@ I hope to see you around on GitHub! </p>
   
 
 </table>
-<hr>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uknowme-h&theme=highcontrast&mode=weekly)](https://git.io/streak-stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uknowme-h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="195" alt="languages graph"  />
-</div>
-<hr>
+
 
 <h2 align="left">Languages and tools:</h2>
 <div align="left">
