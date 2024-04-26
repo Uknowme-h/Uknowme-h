@@ -56,15 +56,19 @@ I hope to see you around on GitHub! </p>
  <a href = "https://huggingface.co/Uknowme-h" target="_blank" ><img src = "https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.svg" height="35"> </a>
 </div>
 
+
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=Uknowme-h&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+
 # Summary:-
 
 <img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=Uknowme-h>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
+<p>&nbsp;<img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
----
+
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uknowme-h&theme=tokyonight&hide_border=false"></p>
----
 
 <br>
 
@@ -78,10 +82,8 @@ I hope to see you around on GitHub! </p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uknowme-h&theme=tokyonight" height="190em">
 </div>
 
----
 <h1 align="left">⚡Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Uknowme-h&theme=tokyo-night"/>
-
 
 ###
 
