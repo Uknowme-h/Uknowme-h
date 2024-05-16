@@ -44,6 +44,8 @@ I hope to see you around on GitHub! </p>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" height="30" alt="threejs logo" />
+  <img width="12" />
 </div>
 
 ###
