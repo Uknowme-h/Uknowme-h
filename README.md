@@ -65,7 +65,7 @@ I hope to see you around on GitHub! </p>
 
 # Summary:-
 
-<img align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=Uknowme-h>
+
 ---
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
 
