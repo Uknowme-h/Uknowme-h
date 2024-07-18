@@ -79,14 +79,13 @@ I hope to see you around on GitHub! </p>
 <div align="center">
 <a href="https://github.com/Uknowme-h">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uknowme-h&theme=tokyonight" height="190em">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uknowme-h&theme=tokyonight" height="190em">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uknowme-h&theme=tokyonight" height="190em"><br>
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uknowme-h&theme=tokyonight" height="190em">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uknowme-h&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uknowme-h&theme=tokyonight" height="190em">
 </div>
 
-<h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Uknowme-h&theme=tokyo-night"/>
+---
 
 ###
 
