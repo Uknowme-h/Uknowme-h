@@ -4,22 +4,9 @@
 <p align="left"> Currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Artificial Intelligence. I'm passionate about exploring the potential of data to solve real-world problems and develop innovative solutions.<br>
 I'm excited to connect with other data science and AI enthusiasts on GitHub!
 Feel free to reach out to me if you have any questions or want to collaborate.</p>
-<h2 align="left"> Here are some of my interests</h2>
-<li>Machine learning</li>
-<li>Deep learning</li>
-<li>Natural language processing</li>
-<li>Data analysis</li>
-<li>Big Data</li>
-<h2 align="left"> Im also interested in:</h2>
-<li>Open source Projects</li>
-<li>Contributing to the data science community</li>
-<li>Learning from others aswell</li>
-<br>
-<p align="left"> I'm always looking for new challenges and opportunities to learn and grow.<br>
 
-I hope to see you around on GitHub! </p>
 
-<h2 align="left">Languages and tools:</h2>
+<h2 align="left">Tech Stacks:-</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -46,6 +33,15 @@ I hope to see you around on GitHub! </p>
   <img width="12" />
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" height="30" alt="threejs logo" />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" height="30" alt="nodejs" />
+  <img width="12" />
+   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="30" alt="postgresql" />
+  <img width="12" />
+   <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" height="30" alt="mongoDB" />
+  <img width="12" />
+   <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" height="30" alt="threejs logo" />
+  <img width="12" />
+  
 </div>
 
 ###
@@ -65,15 +61,10 @@ I hope to see you around on GitHub! </p>
 
 # Summary:-
 
-
----
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Uknowme-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
-
----
 <p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Uknowme-h&theme=tokyonight&hide_border=false"></p>
 
----
-<br>
+
+
 
 # Statistics:-
 <div align="center">
