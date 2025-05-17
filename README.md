@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Uknowme-h&label=PROFILE+VIEWS&base=50&abbreviated=true&color=blue&style=plastic)
 ###
-<h2 align="left">Nishant Jaiswal <br> Data Science & AI Enthusiast</h2>  <img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"/>
+<h2 align="left">Nishant Jaiswal <br> Backend Developer & AI Enthusiast</h2>  <img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"/>
 <p align="left"> Currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Artificial Intelligence. I'm passionate about exploring the potential of data to solve real-world problems and develop innovative solutions.<br>
 I'm excited to connect with other data science and AI enthusiasts on GitHub!
 Feel free to reach out to me if you have any questions or want to collaborate.</p>
