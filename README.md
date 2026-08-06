@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=Uknowme-h&label=PROFILE+VIEWS&base=50&abbreviated=true&color=blue&style=plastic)
 ###
-<h2 align="left">Nishant Jaiswal <br> Backend Developer & AI Enthusiast</h2>  <img align="right" height="150" src="https://media1.tenor.com/m/0tALo4VGqTcAAAAC/hello-halloween.gif"/>
-<p align="left"> Currently pursuing a Bachelor's degree in Computer Science with a specialization in Data Science and Artificial Intelligence. I'm passionate about exploring the potential of data to solve real-world problems and develop innovative solutions.<br>
-I'm excited to connect with other data science and AI enthusiasts on GitHub!
-Feel free to reach out to me if you have any questions or want to collaborate.</p>
+<div align="center">
+  
+![Uknowme-h profile card](https://pixel-profile-zeta.vercel.app/api/render/Uknowme-h/pixel.svg?v=4e7b1b5d67fe)
+  
+</div>
 
 
 <h2 align="left">Tech Stacks:-</h2>
@@ -55,9 +56,6 @@ Feel free to reach out to me if you have any questions or want to collaborate.</
 </div>
 
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Uknowme-h&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
 
 # Summary:-
 
